@@ -30,7 +30,7 @@ setInterval(check, 1000);
 
 
 
-
+// a
 
 
 // 下記より模範解答
